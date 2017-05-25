@@ -1,6 +1,6 @@
 {
   "name": "babel-file-loader",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Load files into memory to be parsed & traversed using Babylon/Babel",
   "main": "index.js",
   "repository": "thejameskyle/babel-multi-file",
