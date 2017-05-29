@@ -1,5 +1,0 @@
-flow-typed
-.flowconfig
-.travis.yml
-fixture.js
-test.js

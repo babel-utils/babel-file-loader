@@ -6,6 +6,7 @@
   "repository": "thejameskyle/babel-multi-file",
   "author": "James Kyle <me@thejameskyle.com>",
   "license": "MIT",
+  "files": [],
   "scripts": {
     "test": "jest"
   },
